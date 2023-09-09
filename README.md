@@ -5,7 +5,7 @@ www.dio.me
 
 #### Autores
 
-- [Luan Ferreiras](https://github.com/lusoferreiras)
+- [Luan Ferreira](https://github.com/lusoferreiras)
 
 ## Sintaxe - Desafio
 
